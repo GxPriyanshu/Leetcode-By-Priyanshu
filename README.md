@@ -59,7 +59,6 @@ Leetcode-By-Priyanshu/
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gxpriyanshu&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gxpriyanshu&theme=tokyonight" alt="GitHub Streak" height="165" />
 </p>
 
 ---
@@ -84,9 +83,6 @@ Leetcode-By-Priyanshu/
 
 If you find this repo helpful, please ⭐ it — it motivates me to keep sharing!  
 Suggestions or collaboration ideas? Connect with me on LinkedIn or drop a message here.
-
-![ThankYou](https://github.com/user-attachments/assets/f512d6d9-3bf8-4f37-9040-87010cbb3506)
-
 ---
 
 ## 🧾 License
